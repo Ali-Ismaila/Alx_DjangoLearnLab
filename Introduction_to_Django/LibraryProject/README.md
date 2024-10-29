@@ -1,1 +1,1 @@
-A django project
+intro django
